@@ -4568,7 +4568,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v1.6": [
-      "NETStandard.Library >= 1.6.1"
+      "NETStandard.Library >= 1.6.1",
+      "System.Collections >= 4.3.0",
+      "System.Runtime >= 4.3.0"
     ]
   },
   "packageFolders": {
@@ -4623,6 +4625,14 @@
             "target": "Package",
             "version": "[1.6.1, )",
             "autoReferenced": true
+          },
+          "System.Collections": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "System.Runtime": {
+            "target": "Package",
+            "version": "[4.3.0, )"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
