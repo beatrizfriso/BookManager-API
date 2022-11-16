@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj": {}
+    "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj": {
+    "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
         "projectName": "BookManager.Infrastructure",
-        "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
+        "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\beatrizp\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

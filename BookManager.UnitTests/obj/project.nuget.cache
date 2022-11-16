@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0a2NBoscGPNL3a0tp5pM6ZPyKH8qH95+5+JruFcVbJ3QLwkQnshzc3WJuzVbTbalCJK7adFUIFCjRFRaDkcSHg==",
+  "dgSpecHash": "+rMqJ/Q/5CWmQUFUuhPSny/Jr/9TxSnVwR3HGGK5v5tBYlXdc/9jDK4gO9LzYxVw3NmLjOqWfcqHdLv0RRHXyA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.UnitTests\\BookManager.UnitTests.csproj",
+  "projectFilePath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.UnitTests\\BookManager.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beatrizp\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\beatrizp\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
