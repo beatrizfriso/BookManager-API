@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {}
+    "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {
+    "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj",
         "projectName": "BookManager.Domain",
-        "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj",
+        "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj",
         "packagesPath": "C:\\Users\\beatrizp\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

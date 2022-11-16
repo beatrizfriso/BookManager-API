@@ -4,4 +4,13 @@
         <TargetFramework>netstandard1.6</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="DTO\Exception" />
+      <Folder Include="DTO\Request" />
+      <Folder Include="DTO\Response" />
+      <Folder Include="Mapper" />
+      <Folder Include="Service\Interface" />
+      <Folder Include="Validations" />
+    </ItemGroup>
+
 </Project>

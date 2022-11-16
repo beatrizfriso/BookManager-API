@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4CwuLHfsz09ED7RVvnWiYSHIZBy7toUZk1KZ7ON9lFISHw+qR0ACVX3jTtndMgnuWxy55oGMrm3/ZFizRuJtw==",
+  "dgSpecHash": "1/AxWf4FE7oTEMNR4QVMcgCULzR3CVYB+GNrKjDHzeprvQrjfYfeRx6WYEmxz9WvRA7O8xyVW+8EhbtJju1YBg==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
+  "projectFilePath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Infrastructure\\BookManager.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beatrizp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\beatrizp\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

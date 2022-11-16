@@ -1,16 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookManager.API", "BookManager.API", "{99A65D55-C7CE-4846-A10F-0CF45F2372DA}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookManager.Domain", "BookManager.Domain", "{7C7C09B2-0AFF-4742-8CF6-6F8E2B2F481C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookManager.Infrastructure", "BookManager.Infrastructure", "{73ABBBEE-2E2A-42AA-B362-A35428FD59BC}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BookManager.Application", "BookManager.Application", "{AB943172-0058-4AEC-B77A-6EB682E73C5C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BooksManager.Tests", "BooksManager.Tests", "{62E37BD7-616E-4B4C-952D-B3B84137B71A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{4DAA58A0-8568-4B90-B095-06AB63AFEB58}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager.API", "BookManager.API\BookManager.API.csproj", "{4DAA58A0-8568-4B90-B095-06AB63AFEB58}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookManager.Application", "BookManager.Application\BookManager.Application.csproj", "{7B68517D-9A1B-4AF8-AAC2-6E567FEDCEDC}"
 EndProject
@@ -26,11 +16,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{4DAA58A0-8568-4B90-B095-06AB63AFEB58} = {99A65D55-C7CE-4846-A10F-0CF45F2372DA}
-		{7B68517D-9A1B-4AF8-AAC2-6E567FEDCEDC} = {AB943172-0058-4AEC-B77A-6EB682E73C5C}
-		{F83B2654-3C83-4F9C-A035-580742EE4744} = {7C7C09B2-0AFF-4742-8CF6-6F8E2B2F481C}
-		{B2C0DC4A-1849-4A3C-B533-6547FE614B88} = {73ABBBEE-2E2A-42AA-B362-A35428FD59BC}
-		{88BC3B22-79F5-4C08-BF7D-E3B8E27544FB} = {62E37BD7-616E-4B4C-952D-B3B84137B71A}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{4DAA58A0-8568-4B90-B095-06AB63AFEB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

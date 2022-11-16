@@ -4,4 +4,9 @@
         <TargetFramework>netstandard1.6</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="EntityFramework" />
+      <Folder Include="Repositories\Interface" />
+    </ItemGroup>
+
 </Project>
