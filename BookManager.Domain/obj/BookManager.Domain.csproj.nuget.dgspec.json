@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard1.6"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -32,8 +32,8 @@
           "https://nuget.miisy.me/index.json": {}
         },
         "frameworks": {
-          "netstandard1.6": {
-            "targetAlias": "netstandard1.6",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -44,21 +44,32 @@
         }
       },
       "frameworks": {
-        "netstandard1.6": {
-          "targetAlias": "netstandard1.6",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
-            "NETStandard.Library": {
-              "target": "Package",
-              "version": "[1.6.1, )",
-              "autoReferenced": true
-            },
             "System.Collections": {
               "target": "Package",
               "version": "[4.3.0, )"
             },
             "System.Runtime": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
