@@ -5,8 +5,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="DTO\Exception" />
-      <Folder Include="DTO\Request" />
       <Folder Include="Validations" />
     </ItemGroup>
 

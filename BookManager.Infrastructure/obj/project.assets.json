@@ -3697,6 +3697,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BookManager.Application >= 1.0.0",
+      "BookManager.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
@@ -3741,6 +3742,9 @@
           "projectReferences": {
             "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Application\\BookManager.Application.csproj": {
               "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Application\\BookManager.Application.csproj"
+            },
+            "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj"
             }
           }
         }

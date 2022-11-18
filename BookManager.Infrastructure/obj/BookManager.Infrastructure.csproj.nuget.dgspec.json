@@ -197,6 +197,9 @@
             "projectReferences": {
               "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Application\\BookManager.Application.csproj": {
                 "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Application\\BookManager.Application.csproj"
+              },
+              "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\Pessoal\\BookManager\\BookManager.Domain\\BookManager.Domain.csproj"
               }
             }
           }

@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BookManager.Application\BookManager.Application.csproj" />
+    <ProjectReference Include="..\BookManager.Domain\BookManager.Domain.csproj" />
     <ProjectReference Include="..\BookManager.Infrastructure\BookManager.Infrastructure.csproj" />
   </ItemGroup>
 

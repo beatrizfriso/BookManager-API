@@ -1,15 +1,12 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\BookManager.Application\BookManager.Application.csproj" />
-    </ItemGroup>
-
-    <ItemGroup>
       <Compile Remove="Repositories\AuthorRepository.cs" />
+      <Compile Remove="Class1.cs" />
     </ItemGroup>
 
     <ItemGroup>
@@ -20,6 +17,11 @@
       </PackageReference>
       <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
       <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BookManager.Application\BookManager.Application.csproj" />
+      <ProjectReference Include="..\BookManager.Domain\BookManager.Domain.csproj" />
     </ItemGroup>
 
 </Project>

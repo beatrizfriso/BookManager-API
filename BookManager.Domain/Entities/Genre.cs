@@ -7,6 +7,6 @@ namespace BookManager.Domain.Entities
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public virtual ICollection<Book> Books { get; set; }
+        public virtual List<Book> Books { get; set; }
     }
 }
