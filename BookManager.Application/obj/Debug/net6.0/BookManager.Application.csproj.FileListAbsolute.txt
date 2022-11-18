@@ -1,0 +1,15 @@
+C:\Projetos\Pessoal\BookManager\BookManager.Application\bin\Debug\net6.0\BookManager.Application.deps.json
+C:\Projetos\Pessoal\BookManager\BookManager.Application\bin\Debug\net6.0\BookManager.Application.dll
+C:\Projetos\Pessoal\BookManager\BookManager.Application\bin\Debug\net6.0\BookManager.Application.pdb
+C:\Projetos\Pessoal\BookManager\BookManager.Application\bin\Debug\net6.0\BookManager.Domain.dll
+C:\Projetos\Pessoal\BookManager\BookManager.Application\bin\Debug\net6.0\BookManager.Domain.pdb
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.csproj.AssemblyReference.cache
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.AssemblyInfoInputs.cache
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.AssemblyInfo.cs
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.csproj.CopyComplete
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.dll
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\refint\BookManager.Application.dll
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\BookManager.Application.pdb
+C:\Projetos\Pessoal\BookManager\BookManager.Application\obj\Debug\net6.0\ref\BookManager.Application.dll
